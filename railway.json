@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "TELEGRAM_BOT_TOKEN": "توکن ربات تلگرامت رو اینجا بذار"
+    }
+  },
+  "start": "python main.py"
+}
